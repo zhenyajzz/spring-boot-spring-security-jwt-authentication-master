@@ -8,9 +8,12 @@ import java.util.Arrays;
 @SpringBootApplication
 public class SpringBootSecurityJwtApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBootSecurityJwtApplication.class, args);
 
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootSecurityJwtApplication.class, args);
+
+    }
+
 
 }
+
